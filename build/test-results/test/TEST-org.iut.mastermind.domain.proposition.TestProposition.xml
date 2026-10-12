@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test si la proposition:" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-12T11:50:26.028Z" hostname="archlinux" time="0.02">
+  <properties/>
+  <testcase name="contient une lettre incorrecte" classname="org.iut.mastermind.domain.proposition.TestProposition" time="0.001"/>
+  <testcase name="contient toutes les lettres placées" classname="org.iut.mastermind.domain.proposition.TestProposition" time="0.0"/>
+  <testcase name="contient une lettre incorrecte, une non placée et une placée" classname="org.iut.mastermind.domain.proposition.TestProposition" time="0.001"/>
+  <testcase name="possède le bon nombre de caractères" classname="org.iut.mastermind.domain.proposition.TestProposition" time="0.009"/>
+  <testcase name="contient une lettre placée" classname="org.iut.mastermind.domain.proposition.TestProposition" time="0.001"/>
+  <testcase name="contient une lettre incorrecte et une non placée" classname="org.iut.mastermind.domain.proposition.TestProposition" time="0.001"/>
+  <testcase name="n'a pas toutes les lettres placées" classname="org.iut.mastermind.domain.proposition.TestProposition" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
